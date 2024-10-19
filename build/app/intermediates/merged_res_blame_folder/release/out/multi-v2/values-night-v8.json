@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.calculator.app-mergeReleaseResources-24:/values-night-v8/values-night-v8.xml",
+            "outputFile": "my.computer.school.calculator.app-mergeReleaseResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/ubuntu/calculator/android/app/src/main/res/values-night/styles.xml",

@@ -4,7 +4,7 @@
     "type": "BUNDLE",
     "kind": "RegularFile"
   },
-  "applicationId": "com.example.calculator",
+  "applicationId": "my.computer.school.calculator",
   "variantName": "release",
   "elements": [
     {

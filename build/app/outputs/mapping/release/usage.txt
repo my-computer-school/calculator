@@ -2310,6 +2310,22 @@ androidx.loader.content.ModernAsyncTask$InternalHandler
 androidx.loader.content.ModernAsyncTask$Status
 androidx.loader.content.ModernAsyncTask$WorkerRunnable
 androidx.loader.content.ModernAsyncTask
+androidx.multidex.BuildConfig
+androidx.multidex.MultiDex$V14$ElementConstructor
+androidx.multidex.MultiDex$V14$ICSElementConstructor
+androidx.multidex.MultiDex$V14$JBMR11ElementConstructor
+androidx.multidex.MultiDex$V14$JBMR2ElementConstructor
+androidx.multidex.MultiDex$V14
+androidx.multidex.MultiDex$V19
+androidx.multidex.MultiDex$V4
+androidx.multidex.MultiDex
+androidx.multidex.MultiDexApplication
+androidx.multidex.MultiDexExtractor$1
+androidx.multidex.MultiDexExtractor$ExtractedDex
+androidx.multidex.MultiDexExtractor
+androidx.multidex.R
+androidx.multidex.ZipUtil$CentralDirectory
+androidx.multidex.ZipUtil
 androidx.profileinstaller.BenchmarkOperation$Api21ContextHelper:
     private void <init>()
 androidx.profileinstaller.BenchmarkOperation$Api24ContextHelper:
@@ -2865,10 +2881,6 @@ androidx.window.reflection.ReflectionUtils:
     public final boolean validateImplementation$window_release(java.lang.Class,java.lang.Class)
     public static synthetic boolean validateReflection$window_release$default(java.lang.String,kotlin.jvm.functions.Function0,int,java.lang.Object)
 androidx.window.reflection.WindowExtensionsConstants
-com.example.calculator.R$drawable
-com.example.calculator.R$mipmap
-com.example.calculator.R$style
-com.example.calculator.R
 com.google.common.util.concurrent.ListenableFuture:
     public abstract void addListener(java.lang.Runnable,java.util.concurrent.Executor)
 io.flutter.Build$API_LEVELS
@@ -10240,6 +10252,10 @@ kotlinx.coroutines.sync.SemaphoreKt$withPermit$1
 kotlinx.coroutines.sync.SemaphoreKt
 kotlinx.coroutines.sync.SemaphoreSegment
 kotlinx.coroutines.time.TimeKt
+my.computer.school.calculator.R$drawable
+my.computer.school.calculator.R$mipmap
+my.computer.school.calculator.R$style
+my.computer.school.calculator.R
 org.intellij.lang.annotations.Flow
 org.intellij.lang.annotations.Identifier
 org.intellij.lang.annotations.JdkConstants$AdjustableOrientation

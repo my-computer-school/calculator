@@ -132,7 +132,7 @@
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
 -keep class androidx.startup.InitializationProvider { <init>(); }
--keep class com.example.calculator.MainActivity { <init>(); }
+-keep class my.computer.school.calculator.MainActivity { <init>(); }
 
 # End of content from /home/ubuntu/calculator/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 # The proguard configuration file for the following section is /home/ubuntu/.gradle/caches/transforms-3/a49cd171355a6a39687e69f028c8bcbc/transformed/fragment-1.7.1/proguard.txt

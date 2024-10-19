@@ -1181,262 +1181,262 @@ Marking id:tag_transition_group:2131165263 used because it matches string pool c
 Marking id:tag_unhandled_key_event_manager:2131165264 used because it matches string pool constant tag
 Marking id:tag_unhandled_key_listeners:2131165265 used because it matches string pool constant tag
 Marking id:tag_window_insets_animation_callback:2131165266 used because it matches string pool constant tag
-@com.example.calculator:anim/fragment_fast_out_extra_slow_in : reachable=false
-@com.example.calculator:animator/fragment_close_enter : reachable=false
-    @com.example.calculator:anim/fragment_fast_out_extra_slow_in
-@com.example.calculator:animator/fragment_close_exit : reachable=false
-    @com.example.calculator:anim/fragment_fast_out_extra_slow_in
-@com.example.calculator:animator/fragment_fade_enter : reachable=false
-@com.example.calculator:animator/fragment_fade_exit : reachable=false
-@com.example.calculator:animator/fragment_open_enter : reachable=false
-    @com.example.calculator:anim/fragment_fast_out_extra_slow_in
-@com.example.calculator:animator/fragment_open_exit : reachable=false
-    @com.example.calculator:anim/fragment_fast_out_extra_slow_in
-@com.example.calculator:attr/activityAction : reachable=true
-@com.example.calculator:attr/activityName : reachable=true
-@com.example.calculator:attr/alpha : reachable=false
-@com.example.calculator:attr/alwaysExpand : reachable=false
-@com.example.calculator:attr/animationBackgroundColor : reachable=false
-@com.example.calculator:attr/clearTop : reachable=false
-@com.example.calculator:attr/finishPrimaryWithPlaceholder : reachable=false
-@com.example.calculator:attr/finishPrimaryWithSecondary : reachable=false
-@com.example.calculator:attr/finishSecondaryWithPrimary : reachable=false
-@com.example.calculator:attr/font : reachable=false
-@com.example.calculator:attr/fontProviderAuthority : reachable=false
-@com.example.calculator:attr/fontProviderCerts : reachable=false
-@com.example.calculator:attr/fontProviderFetchStrategy : reachable=false
-@com.example.calculator:attr/fontProviderFetchTimeout : reachable=false
-@com.example.calculator:attr/fontProviderPackage : reachable=false
-@com.example.calculator:attr/fontProviderQuery : reachable=false
-@com.example.calculator:attr/fontProviderSystemFontFamily : reachable=false
-@com.example.calculator:attr/fontStyle : reachable=false
-@com.example.calculator:attr/fontVariationSettings : reachable=false
-@com.example.calculator:attr/fontWeight : reachable=false
-@com.example.calculator:attr/lStar : reachable=false
-@com.example.calculator:attr/nestedScrollViewStyle : reachable=false
-@com.example.calculator:attr/placeholderActivityName : reachable=false
-@com.example.calculator:attr/primaryActivityName : reachable=false
-@com.example.calculator:attr/queryPatterns : reachable=false
-@com.example.calculator:attr/secondaryActivityAction : reachable=false
-@com.example.calculator:attr/secondaryActivityName : reachable=false
-@com.example.calculator:attr/shortcutMatchRequired : reachable=true
-@com.example.calculator:attr/splitLayoutDirection : reachable=false
-@com.example.calculator:attr/splitMaxAspectRatioInLandscape : reachable=false
-@com.example.calculator:attr/splitMaxAspectRatioInPortrait : reachable=false
-@com.example.calculator:attr/splitMinHeightDp : reachable=false
-@com.example.calculator:attr/splitMinSmallestWidthDp : reachable=false
-@com.example.calculator:attr/splitMinWidthDp : reachable=false
-@com.example.calculator:attr/splitRatio : reachable=false
-@com.example.calculator:attr/stickyPlaceholder : reachable=false
-@com.example.calculator:attr/tag : reachable=true
-@com.example.calculator:attr/ttcIndex : reachable=false
-@com.example.calculator:color/androidx_core_ripple_material_light : reachable=true
-@com.example.calculator:color/androidx_core_secondary_text_default_material_light : reachable=true
-@com.example.calculator:color/call_notification_answer_color : reachable=false
-@com.example.calculator:color/call_notification_decline_color : reachable=false
-@com.example.calculator:color/notification_action_color_filter : reachable=false
-    @com.example.calculator:color/androidx_core_secondary_text_default_material_light
-@com.example.calculator:color/notification_icon_bg_color : reachable=false
-@com.example.calculator:dimen/compat_button_inset_horizontal_material : reachable=false
-@com.example.calculator:dimen/compat_button_inset_vertical_material : reachable=false
-@com.example.calculator:dimen/compat_button_padding_horizontal_material : reachable=false
-@com.example.calculator:dimen/compat_button_padding_vertical_material : reachable=false
-@com.example.calculator:dimen/compat_control_corner_material : reachable=false
-@com.example.calculator:dimen/compat_notification_large_icon_max_height : reachable=false
-@com.example.calculator:dimen/compat_notification_large_icon_max_width : reachable=false
-@com.example.calculator:dimen/notification_action_icon_size : reachable=false
-@com.example.calculator:dimen/notification_action_text_size : reachable=false
-@com.example.calculator:dimen/notification_big_circle_margin : reachable=false
-@com.example.calculator:dimen/notification_content_margin_start : reachable=false
-@com.example.calculator:dimen/notification_large_icon_height : reachable=false
-@com.example.calculator:dimen/notification_large_icon_width : reachable=false
-@com.example.calculator:dimen/notification_main_column_padding_top : reachable=false
-@com.example.calculator:dimen/notification_media_narrow_margin : reachable=false
-@com.example.calculator:dimen/notification_right_icon_size : reachable=false
-@com.example.calculator:dimen/notification_right_side_padding_top : reachable=false
-@com.example.calculator:dimen/notification_small_icon_background_padding : reachable=false
-@com.example.calculator:dimen/notification_small_icon_size_as_large : reachable=false
-@com.example.calculator:dimen/notification_subtext_size : reachable=false
-@com.example.calculator:dimen/notification_top_pad : reachable=false
-@com.example.calculator:dimen/notification_top_pad_large_text : reachable=false
-@com.example.calculator:drawable/ic_call_answer : reachable=false
-@com.example.calculator:drawable/ic_call_answer_low : reachable=false
-@com.example.calculator:drawable/ic_call_answer_video : reachable=false
-@com.example.calculator:drawable/ic_call_answer_video_low : reachable=false
-@com.example.calculator:drawable/ic_call_decline : reachable=false
-@com.example.calculator:drawable/ic_call_decline_low : reachable=false
-@com.example.calculator:drawable/launch_background : reachable=false
-@com.example.calculator:drawable/notification_action_background : reachable=false
-    @com.example.calculator:color/androidx_core_ripple_material_light
-    @com.example.calculator:dimen/compat_button_inset_horizontal_material
-    @com.example.calculator:dimen/compat_button_inset_vertical_material
-    @com.example.calculator:dimen/compat_control_corner_material
-    @com.example.calculator:dimen/compat_button_padding_vertical_material
-    @com.example.calculator:dimen/compat_button_padding_horizontal_material
-@com.example.calculator:drawable/notification_bg : reachable=false
-    @com.example.calculator:drawable/notification_bg_normal_pressed
-    @com.example.calculator:drawable/notification_bg_normal
-@com.example.calculator:drawable/notification_bg_low : reachable=false
-    @com.example.calculator:drawable/notification_bg_low_pressed
-    @com.example.calculator:drawable/notification_bg_low_normal
-@com.example.calculator:drawable/notification_bg_low_normal : reachable=false
-@com.example.calculator:drawable/notification_bg_low_pressed : reachable=false
-@com.example.calculator:drawable/notification_bg_normal : reachable=false
-@com.example.calculator:drawable/notification_bg_normal_pressed : reachable=false
-@com.example.calculator:drawable/notification_icon_background : reachable=false
-    @com.example.calculator:color/notification_icon_bg_color
-@com.example.calculator:drawable/notification_oversize_large_icon_bg : reachable=false
-@com.example.calculator:drawable/notification_template_icon_bg : reachable=false
-@com.example.calculator:drawable/notification_template_icon_low_bg : reachable=false
-@com.example.calculator:drawable/notification_tile_bg : reachable=false
-    @com.example.calculator:drawable/notify_panel_notification_icon_bg
-@com.example.calculator:drawable/notify_panel_notification_icon_bg : reachable=false
-@com.example.calculator:id/accessibility_action_clickable_span : reachable=true
-@com.example.calculator:id/accessibility_custom_action_0 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_1 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_10 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_11 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_12 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_13 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_14 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_15 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_16 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_17 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_18 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_19 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_2 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_20 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_21 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_22 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_23 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_24 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_25 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_26 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_27 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_28 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_29 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_3 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_30 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_31 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_4 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_5 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_6 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_7 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_8 : reachable=true
-@com.example.calculator:id/accessibility_custom_action_9 : reachable=true
-@com.example.calculator:id/action_container : reachable=true
-@com.example.calculator:id/action_divider : reachable=true
-@com.example.calculator:id/action_image : reachable=true
-@com.example.calculator:id/action_text : reachable=true
-@com.example.calculator:id/actions : reachable=true
-@com.example.calculator:id/adjacent : reachable=false
-@com.example.calculator:id/always : reachable=false
-@com.example.calculator:id/alwaysAllow : reachable=false
-@com.example.calculator:id/alwaysDisallow : reachable=false
-@com.example.calculator:id/androidx_window_activity_scope : reachable=true
-@com.example.calculator:id/async : reachable=false
-@com.example.calculator:id/blocking : reachable=true
-@com.example.calculator:id/bottomToTop : reachable=false
-@com.example.calculator:id/chronometer : reachable=false
-@com.example.calculator:id/dialog_button : reachable=false
-@com.example.calculator:id/edit_text_id : reachable=false
-@com.example.calculator:id/forever : reachable=false
-@com.example.calculator:id/fragment_container_view_tag : reachable=false
-@com.example.calculator:id/hide_ime_id : reachable=false
-@com.example.calculator:id/icon : reachable=false
-@com.example.calculator:id/icon_group : reachable=false
-@com.example.calculator:id/info : reachable=true
-@com.example.calculator:id/italic : reachable=false
-@com.example.calculator:id/line1 : reachable=false
-@com.example.calculator:id/line3 : reachable=false
-@com.example.calculator:id/locale : reachable=true
-@com.example.calculator:id/ltr : reachable=false
-@com.example.calculator:id/never : reachable=false
-@com.example.calculator:id/normal : reachable=false
-@com.example.calculator:id/notification_background : reachable=false
-@com.example.calculator:id/notification_main_column : reachable=false
-@com.example.calculator:id/notification_main_column_container : reachable=false
-@com.example.calculator:id/report_drawn : reachable=false
-@com.example.calculator:id/right_icon : reachable=false
-@com.example.calculator:id/right_side : reachable=false
-@com.example.calculator:id/rtl : reachable=false
-@com.example.calculator:id/special_effects_controller_view_tag : reachable=false
-@com.example.calculator:id/tag_accessibility_actions : reachable=true
-@com.example.calculator:id/tag_accessibility_clickable_spans : reachable=true
-@com.example.calculator:id/tag_accessibility_heading : reachable=true
-@com.example.calculator:id/tag_accessibility_pane_title : reachable=true
-@com.example.calculator:id/tag_on_apply_window_listener : reachable=true
-@com.example.calculator:id/tag_on_receive_content_listener : reachable=true
-@com.example.calculator:id/tag_on_receive_content_mime_types : reachable=true
-@com.example.calculator:id/tag_screen_reader_focusable : reachable=true
-@com.example.calculator:id/tag_state_description : reachable=true
-@com.example.calculator:id/tag_transition_group : reachable=true
-@com.example.calculator:id/tag_unhandled_key_event_manager : reachable=true
-@com.example.calculator:id/tag_unhandled_key_listeners : reachable=true
-@com.example.calculator:id/tag_window_insets_animation_callback : reachable=true
-@com.example.calculator:id/text : reachable=true
-@com.example.calculator:id/text2 : reachable=true
-@com.example.calculator:id/time : reachable=false
-@com.example.calculator:id/title : reachable=false
-@com.example.calculator:id/topToBottom : reachable=true
-@com.example.calculator:id/view_tree_lifecycle_owner : reachable=true
-@com.example.calculator:id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
-@com.example.calculator:id/view_tree_saved_state_registry_owner : reachable=true
-@com.example.calculator:id/view_tree_view_model_store_owner : reachable=true
-@com.example.calculator:id/visible_removing_fragment_view_tag : reachable=false
-@com.example.calculator:integer/status_bar_notification_info_maxnum : reachable=false
-@com.example.calculator:layout/custom_dialog : reachable=false
-@com.example.calculator:layout/ime_base_split_test_activity : reachable=false
-@com.example.calculator:layout/ime_secondary_split_test_activity : reachable=false
-@com.example.calculator:layout/notification_action : reachable=false
-    @com.example.calculator:style/Widget_Compat_NotificationActionContainer
-    @com.example.calculator:dimen/notification_action_icon_size
-    @com.example.calculator:style/Widget_Compat_NotificationActionText
-@com.example.calculator:layout/notification_action_tombstone : reachable=false
-    @com.example.calculator:style/Widget_Compat_NotificationActionContainer
-    @com.example.calculator:dimen/notification_action_icon_size
-    @com.example.calculator:style/Widget_Compat_NotificationActionText
-@com.example.calculator:layout/notification_template_custom_big : reachable=false
-    @com.example.calculator:layout/notification_template_icon_group
-    @com.example.calculator:dimen/notification_large_icon_width
-    @com.example.calculator:dimen/notification_large_icon_height
-    @com.example.calculator:dimen/notification_right_side_padding_top
-    @com.example.calculator:layout/notification_template_part_time
-    @com.example.calculator:layout/notification_template_part_chronometer
-    @com.example.calculator:style/TextAppearance_Compat_Notification_Info
-@com.example.calculator:layout/notification_template_icon_group : reachable=false
-    @com.example.calculator:dimen/notification_large_icon_width
-    @com.example.calculator:dimen/notification_large_icon_height
-    @com.example.calculator:dimen/notification_big_circle_margin
-    @com.example.calculator:dimen/notification_right_icon_size
-@com.example.calculator:layout/notification_template_part_chronometer : reachable=false
-    @com.example.calculator:style/TextAppearance_Compat_Notification_Time
-@com.example.calculator:layout/notification_template_part_time : reachable=false
-    @com.example.calculator:style/TextAppearance_Compat_Notification_Time
-@com.example.calculator:mipmap/ic_launcher : reachable=true
-@com.example.calculator:string/androidx_startup : reachable=true
-@com.example.calculator:string/call_notification_answer_action : reachable=false
-@com.example.calculator:string/call_notification_answer_video_action : reachable=false
-@com.example.calculator:string/call_notification_decline_action : reachable=false
-@com.example.calculator:string/call_notification_hang_up_action : reachable=false
-@com.example.calculator:string/call_notification_incoming_text : reachable=false
-@com.example.calculator:string/call_notification_ongoing_text : reachable=false
-@com.example.calculator:string/call_notification_screening_text : reachable=false
-@com.example.calculator:string/status_bar_notification_info_overflow : reachable=false
-@com.example.calculator:style/LaunchTheme : reachable=true
-    @com.example.calculator:drawable/launch_background
-@com.example.calculator:style/NormalTheme : reachable=true
-@com.example.calculator:style/TextAppearance_Compat_Notification : reachable=false
-@com.example.calculator:style/TextAppearance_Compat_Notification_Info : reachable=false
-@com.example.calculator:style/TextAppearance_Compat_Notification_Line2 : reachable=false
-    @com.example.calculator:style/TextAppearance_Compat_Notification_Info
-@com.example.calculator:style/TextAppearance_Compat_Notification_Time : reachable=false
-@com.example.calculator:style/TextAppearance_Compat_Notification_Title : reachable=false
-@com.example.calculator:style/Widget_Compat_NotificationActionContainer : reachable=false
-    @com.example.calculator:drawable/notification_action_background
-@com.example.calculator:style/Widget_Compat_NotificationActionText : reachable=false
-    @com.example.calculator:color/androidx_core_secondary_text_default_material_light
-    @com.example.calculator:dimen/notification_action_text_size
+@my.computer.school.calculator:anim/fragment_fast_out_extra_slow_in : reachable=false
+@my.computer.school.calculator:animator/fragment_close_enter : reachable=false
+    @my.computer.school.calculator:anim/fragment_fast_out_extra_slow_in
+@my.computer.school.calculator:animator/fragment_close_exit : reachable=false
+    @my.computer.school.calculator:anim/fragment_fast_out_extra_slow_in
+@my.computer.school.calculator:animator/fragment_fade_enter : reachable=false
+@my.computer.school.calculator:animator/fragment_fade_exit : reachable=false
+@my.computer.school.calculator:animator/fragment_open_enter : reachable=false
+    @my.computer.school.calculator:anim/fragment_fast_out_extra_slow_in
+@my.computer.school.calculator:animator/fragment_open_exit : reachable=false
+    @my.computer.school.calculator:anim/fragment_fast_out_extra_slow_in
+@my.computer.school.calculator:attr/activityAction : reachable=true
+@my.computer.school.calculator:attr/activityName : reachable=true
+@my.computer.school.calculator:attr/alpha : reachable=false
+@my.computer.school.calculator:attr/alwaysExpand : reachable=false
+@my.computer.school.calculator:attr/animationBackgroundColor : reachable=false
+@my.computer.school.calculator:attr/clearTop : reachable=false
+@my.computer.school.calculator:attr/finishPrimaryWithPlaceholder : reachable=false
+@my.computer.school.calculator:attr/finishPrimaryWithSecondary : reachable=false
+@my.computer.school.calculator:attr/finishSecondaryWithPrimary : reachable=false
+@my.computer.school.calculator:attr/font : reachable=false
+@my.computer.school.calculator:attr/fontProviderAuthority : reachable=false
+@my.computer.school.calculator:attr/fontProviderCerts : reachable=false
+@my.computer.school.calculator:attr/fontProviderFetchStrategy : reachable=false
+@my.computer.school.calculator:attr/fontProviderFetchTimeout : reachable=false
+@my.computer.school.calculator:attr/fontProviderPackage : reachable=false
+@my.computer.school.calculator:attr/fontProviderQuery : reachable=false
+@my.computer.school.calculator:attr/fontProviderSystemFontFamily : reachable=false
+@my.computer.school.calculator:attr/fontStyle : reachable=false
+@my.computer.school.calculator:attr/fontVariationSettings : reachable=false
+@my.computer.school.calculator:attr/fontWeight : reachable=false
+@my.computer.school.calculator:attr/lStar : reachable=false
+@my.computer.school.calculator:attr/nestedScrollViewStyle : reachable=false
+@my.computer.school.calculator:attr/placeholderActivityName : reachable=false
+@my.computer.school.calculator:attr/primaryActivityName : reachable=false
+@my.computer.school.calculator:attr/queryPatterns : reachable=false
+@my.computer.school.calculator:attr/secondaryActivityAction : reachable=false
+@my.computer.school.calculator:attr/secondaryActivityName : reachable=false
+@my.computer.school.calculator:attr/shortcutMatchRequired : reachable=true
+@my.computer.school.calculator:attr/splitLayoutDirection : reachable=false
+@my.computer.school.calculator:attr/splitMaxAspectRatioInLandscape : reachable=false
+@my.computer.school.calculator:attr/splitMaxAspectRatioInPortrait : reachable=false
+@my.computer.school.calculator:attr/splitMinHeightDp : reachable=false
+@my.computer.school.calculator:attr/splitMinSmallestWidthDp : reachable=false
+@my.computer.school.calculator:attr/splitMinWidthDp : reachable=false
+@my.computer.school.calculator:attr/splitRatio : reachable=false
+@my.computer.school.calculator:attr/stickyPlaceholder : reachable=false
+@my.computer.school.calculator:attr/tag : reachable=true
+@my.computer.school.calculator:attr/ttcIndex : reachable=false
+@my.computer.school.calculator:color/androidx_core_ripple_material_light : reachable=true
+@my.computer.school.calculator:color/androidx_core_secondary_text_default_material_light : reachable=true
+@my.computer.school.calculator:color/call_notification_answer_color : reachable=false
+@my.computer.school.calculator:color/call_notification_decline_color : reachable=false
+@my.computer.school.calculator:color/notification_action_color_filter : reachable=false
+    @my.computer.school.calculator:color/androidx_core_secondary_text_default_material_light
+@my.computer.school.calculator:color/notification_icon_bg_color : reachable=false
+@my.computer.school.calculator:dimen/compat_button_inset_horizontal_material : reachable=false
+@my.computer.school.calculator:dimen/compat_button_inset_vertical_material : reachable=false
+@my.computer.school.calculator:dimen/compat_button_padding_horizontal_material : reachable=false
+@my.computer.school.calculator:dimen/compat_button_padding_vertical_material : reachable=false
+@my.computer.school.calculator:dimen/compat_control_corner_material : reachable=false
+@my.computer.school.calculator:dimen/compat_notification_large_icon_max_height : reachable=false
+@my.computer.school.calculator:dimen/compat_notification_large_icon_max_width : reachable=false
+@my.computer.school.calculator:dimen/notification_action_icon_size : reachable=false
+@my.computer.school.calculator:dimen/notification_action_text_size : reachable=false
+@my.computer.school.calculator:dimen/notification_big_circle_margin : reachable=false
+@my.computer.school.calculator:dimen/notification_content_margin_start : reachable=false
+@my.computer.school.calculator:dimen/notification_large_icon_height : reachable=false
+@my.computer.school.calculator:dimen/notification_large_icon_width : reachable=false
+@my.computer.school.calculator:dimen/notification_main_column_padding_top : reachable=false
+@my.computer.school.calculator:dimen/notification_media_narrow_margin : reachable=false
+@my.computer.school.calculator:dimen/notification_right_icon_size : reachable=false
+@my.computer.school.calculator:dimen/notification_right_side_padding_top : reachable=false
+@my.computer.school.calculator:dimen/notification_small_icon_background_padding : reachable=false
+@my.computer.school.calculator:dimen/notification_small_icon_size_as_large : reachable=false
+@my.computer.school.calculator:dimen/notification_subtext_size : reachable=false
+@my.computer.school.calculator:dimen/notification_top_pad : reachable=false
+@my.computer.school.calculator:dimen/notification_top_pad_large_text : reachable=false
+@my.computer.school.calculator:drawable/ic_call_answer : reachable=false
+@my.computer.school.calculator:drawable/ic_call_answer_low : reachable=false
+@my.computer.school.calculator:drawable/ic_call_answer_video : reachable=false
+@my.computer.school.calculator:drawable/ic_call_answer_video_low : reachable=false
+@my.computer.school.calculator:drawable/ic_call_decline : reachable=false
+@my.computer.school.calculator:drawable/ic_call_decline_low : reachable=false
+@my.computer.school.calculator:drawable/launch_background : reachable=false
+@my.computer.school.calculator:drawable/notification_action_background : reachable=false
+    @my.computer.school.calculator:color/androidx_core_ripple_material_light
+    @my.computer.school.calculator:dimen/compat_button_inset_horizontal_material
+    @my.computer.school.calculator:dimen/compat_button_inset_vertical_material
+    @my.computer.school.calculator:dimen/compat_control_corner_material
+    @my.computer.school.calculator:dimen/compat_button_padding_vertical_material
+    @my.computer.school.calculator:dimen/compat_button_padding_horizontal_material
+@my.computer.school.calculator:drawable/notification_bg : reachable=false
+    @my.computer.school.calculator:drawable/notification_bg_normal_pressed
+    @my.computer.school.calculator:drawable/notification_bg_normal
+@my.computer.school.calculator:drawable/notification_bg_low : reachable=false
+    @my.computer.school.calculator:drawable/notification_bg_low_pressed
+    @my.computer.school.calculator:drawable/notification_bg_low_normal
+@my.computer.school.calculator:drawable/notification_bg_low_normal : reachable=false
+@my.computer.school.calculator:drawable/notification_bg_low_pressed : reachable=false
+@my.computer.school.calculator:drawable/notification_bg_normal : reachable=false
+@my.computer.school.calculator:drawable/notification_bg_normal_pressed : reachable=false
+@my.computer.school.calculator:drawable/notification_icon_background : reachable=false
+    @my.computer.school.calculator:color/notification_icon_bg_color
+@my.computer.school.calculator:drawable/notification_oversize_large_icon_bg : reachable=false
+@my.computer.school.calculator:drawable/notification_template_icon_bg : reachable=false
+@my.computer.school.calculator:drawable/notification_template_icon_low_bg : reachable=false
+@my.computer.school.calculator:drawable/notification_tile_bg : reachable=false
+    @my.computer.school.calculator:drawable/notify_panel_notification_icon_bg
+@my.computer.school.calculator:drawable/notify_panel_notification_icon_bg : reachable=false
+@my.computer.school.calculator:id/accessibility_action_clickable_span : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_0 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_1 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_10 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_11 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_12 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_13 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_14 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_15 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_16 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_17 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_18 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_19 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_2 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_20 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_21 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_22 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_23 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_24 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_25 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_26 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_27 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_28 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_29 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_3 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_30 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_31 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_4 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_5 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_6 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_7 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_8 : reachable=true
+@my.computer.school.calculator:id/accessibility_custom_action_9 : reachable=true
+@my.computer.school.calculator:id/action_container : reachable=true
+@my.computer.school.calculator:id/action_divider : reachable=true
+@my.computer.school.calculator:id/action_image : reachable=true
+@my.computer.school.calculator:id/action_text : reachable=true
+@my.computer.school.calculator:id/actions : reachable=true
+@my.computer.school.calculator:id/adjacent : reachable=false
+@my.computer.school.calculator:id/always : reachable=false
+@my.computer.school.calculator:id/alwaysAllow : reachable=false
+@my.computer.school.calculator:id/alwaysDisallow : reachable=false
+@my.computer.school.calculator:id/androidx_window_activity_scope : reachable=true
+@my.computer.school.calculator:id/async : reachable=false
+@my.computer.school.calculator:id/blocking : reachable=true
+@my.computer.school.calculator:id/bottomToTop : reachable=false
+@my.computer.school.calculator:id/chronometer : reachable=false
+@my.computer.school.calculator:id/dialog_button : reachable=false
+@my.computer.school.calculator:id/edit_text_id : reachable=false
+@my.computer.school.calculator:id/forever : reachable=false
+@my.computer.school.calculator:id/fragment_container_view_tag : reachable=false
+@my.computer.school.calculator:id/hide_ime_id : reachable=false
+@my.computer.school.calculator:id/icon : reachable=false
+@my.computer.school.calculator:id/icon_group : reachable=false
+@my.computer.school.calculator:id/info : reachable=true
+@my.computer.school.calculator:id/italic : reachable=false
+@my.computer.school.calculator:id/line1 : reachable=false
+@my.computer.school.calculator:id/line3 : reachable=false
+@my.computer.school.calculator:id/locale : reachable=true
+@my.computer.school.calculator:id/ltr : reachable=false
+@my.computer.school.calculator:id/never : reachable=false
+@my.computer.school.calculator:id/normal : reachable=false
+@my.computer.school.calculator:id/notification_background : reachable=false
+@my.computer.school.calculator:id/notification_main_column : reachable=false
+@my.computer.school.calculator:id/notification_main_column_container : reachable=false
+@my.computer.school.calculator:id/report_drawn : reachable=false
+@my.computer.school.calculator:id/right_icon : reachable=false
+@my.computer.school.calculator:id/right_side : reachable=false
+@my.computer.school.calculator:id/rtl : reachable=false
+@my.computer.school.calculator:id/special_effects_controller_view_tag : reachable=false
+@my.computer.school.calculator:id/tag_accessibility_actions : reachable=true
+@my.computer.school.calculator:id/tag_accessibility_clickable_spans : reachable=true
+@my.computer.school.calculator:id/tag_accessibility_heading : reachable=true
+@my.computer.school.calculator:id/tag_accessibility_pane_title : reachable=true
+@my.computer.school.calculator:id/tag_on_apply_window_listener : reachable=true
+@my.computer.school.calculator:id/tag_on_receive_content_listener : reachable=true
+@my.computer.school.calculator:id/tag_on_receive_content_mime_types : reachable=true
+@my.computer.school.calculator:id/tag_screen_reader_focusable : reachable=true
+@my.computer.school.calculator:id/tag_state_description : reachable=true
+@my.computer.school.calculator:id/tag_transition_group : reachable=true
+@my.computer.school.calculator:id/tag_unhandled_key_event_manager : reachable=true
+@my.computer.school.calculator:id/tag_unhandled_key_listeners : reachable=true
+@my.computer.school.calculator:id/tag_window_insets_animation_callback : reachable=true
+@my.computer.school.calculator:id/text : reachable=true
+@my.computer.school.calculator:id/text2 : reachable=true
+@my.computer.school.calculator:id/time : reachable=false
+@my.computer.school.calculator:id/title : reachable=false
+@my.computer.school.calculator:id/topToBottom : reachable=true
+@my.computer.school.calculator:id/view_tree_lifecycle_owner : reachable=true
+@my.computer.school.calculator:id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
+@my.computer.school.calculator:id/view_tree_saved_state_registry_owner : reachable=true
+@my.computer.school.calculator:id/view_tree_view_model_store_owner : reachable=true
+@my.computer.school.calculator:id/visible_removing_fragment_view_tag : reachable=false
+@my.computer.school.calculator:integer/status_bar_notification_info_maxnum : reachable=false
+@my.computer.school.calculator:layout/custom_dialog : reachable=false
+@my.computer.school.calculator:layout/ime_base_split_test_activity : reachable=false
+@my.computer.school.calculator:layout/ime_secondary_split_test_activity : reachable=false
+@my.computer.school.calculator:layout/notification_action : reachable=false
+    @my.computer.school.calculator:style/Widget_Compat_NotificationActionContainer
+    @my.computer.school.calculator:dimen/notification_action_icon_size
+    @my.computer.school.calculator:style/Widget_Compat_NotificationActionText
+@my.computer.school.calculator:layout/notification_action_tombstone : reachable=false
+    @my.computer.school.calculator:style/Widget_Compat_NotificationActionContainer
+    @my.computer.school.calculator:dimen/notification_action_icon_size
+    @my.computer.school.calculator:style/Widget_Compat_NotificationActionText
+@my.computer.school.calculator:layout/notification_template_custom_big : reachable=false
+    @my.computer.school.calculator:layout/notification_template_icon_group
+    @my.computer.school.calculator:dimen/notification_large_icon_width
+    @my.computer.school.calculator:dimen/notification_large_icon_height
+    @my.computer.school.calculator:dimen/notification_right_side_padding_top
+    @my.computer.school.calculator:layout/notification_template_part_time
+    @my.computer.school.calculator:layout/notification_template_part_chronometer
+    @my.computer.school.calculator:style/TextAppearance_Compat_Notification_Info
+@my.computer.school.calculator:layout/notification_template_icon_group : reachable=false
+    @my.computer.school.calculator:dimen/notification_large_icon_width
+    @my.computer.school.calculator:dimen/notification_large_icon_height
+    @my.computer.school.calculator:dimen/notification_big_circle_margin
+    @my.computer.school.calculator:dimen/notification_right_icon_size
+@my.computer.school.calculator:layout/notification_template_part_chronometer : reachable=false
+    @my.computer.school.calculator:style/TextAppearance_Compat_Notification_Time
+@my.computer.school.calculator:layout/notification_template_part_time : reachable=false
+    @my.computer.school.calculator:style/TextAppearance_Compat_Notification_Time
+@my.computer.school.calculator:mipmap/ic_launcher : reachable=true
+@my.computer.school.calculator:string/androidx_startup : reachable=true
+@my.computer.school.calculator:string/call_notification_answer_action : reachable=false
+@my.computer.school.calculator:string/call_notification_answer_video_action : reachable=false
+@my.computer.school.calculator:string/call_notification_decline_action : reachable=false
+@my.computer.school.calculator:string/call_notification_hang_up_action : reachable=false
+@my.computer.school.calculator:string/call_notification_incoming_text : reachable=false
+@my.computer.school.calculator:string/call_notification_ongoing_text : reachable=false
+@my.computer.school.calculator:string/call_notification_screening_text : reachable=false
+@my.computer.school.calculator:string/status_bar_notification_info_overflow : reachable=false
+@my.computer.school.calculator:style/LaunchTheme : reachable=true
+    @my.computer.school.calculator:drawable/launch_background
+@my.computer.school.calculator:style/NormalTheme : reachable=true
+@my.computer.school.calculator:style/TextAppearance_Compat_Notification : reachable=false
+@my.computer.school.calculator:style/TextAppearance_Compat_Notification_Info : reachable=false
+@my.computer.school.calculator:style/TextAppearance_Compat_Notification_Line2 : reachable=false
+    @my.computer.school.calculator:style/TextAppearance_Compat_Notification_Info
+@my.computer.school.calculator:style/TextAppearance_Compat_Notification_Time : reachable=false
+@my.computer.school.calculator:style/TextAppearance_Compat_Notification_Title : reachable=false
+@my.computer.school.calculator:style/Widget_Compat_NotificationActionContainer : reachable=false
+    @my.computer.school.calculator:drawable/notification_action_background
+@my.computer.school.calculator:style/Widget_Compat_NotificationActionText : reachable=false
+    @my.computer.school.calculator:color/androidx_core_secondary_text_default_material_light
+    @my.computer.school.calculator:dimen/notification_action_text_size
 
 The root reachable resources are:
  attr:activityAction:2130903040

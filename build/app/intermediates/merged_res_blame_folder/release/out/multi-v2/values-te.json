@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.calculator.app-mergeReleaseResources-24:/values-te/values-te.xml",
+            "outputFile": "my.computer.school.calculator.app-mergeReleaseResources-24:/values-te/values-te.xml",
             "map": [
                 {
                     "source": "/home/ubuntu/.gradle/caches/transforms-3/c666c258fca39b3353b46678a6b928ab/transformed/core-1.13.1/res/values-te/values-te.xml",
